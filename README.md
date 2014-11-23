@@ -6,4 +6,4 @@ satisfied for modules do thrift_install contrib/fuag15/thrift/<module>
 
 enjoy!
 
-[flannel-repo]: http://github.com/fuag15/flannel/blob/master/pather/README.md "Flannel Readme"
+[flannel-repo]: http://github.com/fuag15/flannel/blob/master/README.md "Flannel Readme"
